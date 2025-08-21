@@ -23,4 +23,10 @@ The goal is to build strong foundations, gain hands-on skills, and create a port
 ---
 
 ### 🔹 Month 3 – Advanced & Projects
+- **Cloud (AWS/Azure)** → Basics of S3/Blob, SQL on cloud, data pipeline intro.  
+- **Python ML Basics** → Linear regression, classification (intro only).  
+📌 *Capstone Project: End-to-end analysis → Collect data → Clean in SQL/Python → Analyze → Visualize in Power BI.*  
+
+---
+
 
